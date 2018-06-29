@@ -6,7 +6,7 @@
 * Team Leader Should Create A New Issue Each Afternoon, 7:00 PM Is Suggested.
 * Team Members Is Supposed To Report What You Have Done Or Learned As A Reply Of The Issued Created By Leader.
 ## When You Want To Ask A Question
-* Create A New Issued With A Concise Title 
+* Create A New Issue With A Concise Title 
 > Example: [Question]Stuck When Installing Pycharm
 * Describe The Problem Your Meet With Details, Including Error Message ,Codes And Your Speculations.
 * Screenshots Of The Codes Are Always Welcome.  
