@@ -17,7 +17,7 @@ C#  UWP
 - 已完成：
   - 基本了解了C#语言。
   - 完成Hanker Rank的Warm-Up部分。
-  - ![1532268698311](C:\Users\13116\AppData\Local\Temp\1532268698311.png)
+  - https://github.com/assassin945/pixel-fight/blob/master/Hanker%20Rank.jpg
   - 掌握了Git的基本用法。
 - 待完成：
   - 学习UWP开发。
