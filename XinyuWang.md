@@ -1,6 +1,7 @@
 # 周报
 
->  王昕宇 - pixel fight
+>  王昕宇 - PixelFight Team
+> 
 >  C#  UWP
 
 ## 2018/07/15
@@ -24,4 +25,8 @@
   - Hanker Rank上的习题
 - 备注：
   - 时间很零碎，要注意。
+- 本周任务
+  - 完成Hackerrank中Implementation部分前20道题
+  - UWP视频教程学习至 "UWP开发入门教程 49 -- 应用开发实例：UWP" 之前
+  - 根据每日要求进度完成PF系统部分类的C#移植
 
