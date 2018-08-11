@@ -41,8 +41,27 @@
 * Learning the database
 
 * To-Do:
-- [ ] Earn the 6ku level on codeWars
-- [ ] Build a demo Electron App
+- [x] Earn the 6ku level on codeWars
+- [x] Build a demo Electron App
 
 * Addition:
 > Nothing
+
+### 2018/8/11
+
+* Done:
+* Get to know the organization of flask and django. 
+
+* Doing:
+* Going on with the html5 book.
+* Going on with the Electron API.
+* Learning python.
+* Learning NetWork.
+
+* To-Do:
+- [ ] Earn the 5ku level on codeWars.
+- [ ] Config the haunt which is one static site generator.
+- [ ] Explore the way how pip run.
+
+* Addition:
+> Nothing.
