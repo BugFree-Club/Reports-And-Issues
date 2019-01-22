@@ -1,13 +1,6 @@
-# Reports-And-Issues
-## The Report Template Is Uploaded.Everyone Is Required To Update Your Report Every Monday.
-* The Form Of The Report Is Shown In The Template And It Must Be Followed.
-* To-Do List Includes The Tasks Of The Next Week Which Are Assigned By Your Team Leader(Liang/Gu)
-## Daily Report Is A Short And Simple Description Of What You Have Done During The DayTime
-* Team Leader Should Create A New Issue Each Afternoon, 7:00 PM Is Suggested.
-* Team Members Is Supposed To Report What You Have Done Or Learned As A Reply Of The Issued Created By Leader.
-## When You Want To Ask A Question
-* Create A New Issue With A Concise Title 
-> Example: [Question]Stuck When Installing Pycharm
-* Describe The Problem Your Meet With Details, Including Error Message ,Codes And Your Speculations.
-* Screenshots Of The Codes Are Always Welcome.  
-* Feel Free To Use The **Assignee** To Inform The Person You Want To Ask And Add A Label To Show The Level Of Problem.
+# 提问要求
+* 创建一个标题简洁的问题
+> 例如: [Question]（简洁的问题描述）
+* 内容：详细描述遇到的问题，包括你的报错信息、代码以及你对该问题成因的猜测
+* 欢迎提交代码截图，这样我们能够更加便捷的解决问题，也可以供大家参考  
+* 可以随意使用**Assigned**来通知您要询问的人，并添加一个标签来显示问题的级别
